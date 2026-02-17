@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 A passionate developer dedicated to building **efficient**, **scalable**, and **user-centric** solutions. I thrive on solving complex logic puzzles and turning coffee into clean, maintainable code.
 
 - 🔭 **Current Project:** Building high-performance web architectures.
@@ -13,7 +13,7 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
@@ -22,7 +22,7 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 
 ---
 
-## 📊 GitHub Performance
+## GitHub Performance
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true" width="60%" />
 </p>
