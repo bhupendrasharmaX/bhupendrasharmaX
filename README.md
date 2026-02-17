@@ -14,7 +14,7 @@
 
 <!-- ==================== ABOUT ==================== -->
 
-## 💫 About Me
+## About Me
 
 - 🔭 I’m currently working on **AI Voice Assistant for Resorts**
 - 🌱 I’m currently learning **Advanced Full Stack Development**
@@ -25,7 +25,7 @@
 
 <!-- ==================== SOCIALS ==================== -->
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bhupendrasharma-x">
@@ -43,7 +43,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 💎 Tech Stack
+## Tech Stack
 
 | 🚀 Category | 🛠 Tools & Technologies |
 | :--- | :--- |
@@ -56,7 +56,7 @@
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -67,7 +67,7 @@
 
 <!-- ==================== TOP LANGUAGES ==================== -->
 
-## 🔥 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -77,7 +77,7 @@
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
