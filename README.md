@@ -16,11 +16,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **AI Voice Assistant for Resorts**
-- 🌱 I’m currently learning **Advanced Full Stack Development**
-- 💬 Ask me about **Web Development, UI/UX, AI Projects**
-- ⚡ Fun fact: I love building futuristic tech ideas 🚀
-
+-?
 ---
 
 <!-- ==================== SOCIALS ==================== -->
