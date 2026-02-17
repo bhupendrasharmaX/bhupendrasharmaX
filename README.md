@@ -1,4 +1,4 @@
-# 🚀 Bhupendra Sharma
+<h3 align = "center">Bhupendra Sharma</h3>
 ### Full-Stack Developer | Problem Solver | Open Source Enthusiast
 
 <p align="left">
@@ -30,11 +30,6 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 ---
 
 ## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupendrasharmaX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendrasharmaX&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true" width="100%" />
 </p>
