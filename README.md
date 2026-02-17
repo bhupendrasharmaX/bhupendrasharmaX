@@ -1,9 +1,9 @@
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">Hi 👋, I'm Bhupendra Sharma</h1>
+<h1 align="center">Hi, I'm Bhupendra Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Voice+Assistant+Builder;Creative+UI%2FUX+Designer;Always+Learning+New+Things+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things+" />
 </p>
 
 <p align="center">
