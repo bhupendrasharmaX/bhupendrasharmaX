@@ -1,10 +1,7 @@
 <h3 align = "center">Bhupendra Sharma</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/bhupendrasharma-x"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/i.bhupendrasharma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:bhupendra09x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 ---
+
 ## 👨‍💻 About Me
 A passionate developer dedicated to building **efficient**, **scalable**, and **user-centric** solutions. I thrive on solving complex logic puzzles and turning coffee into clean, maintainable code.
 
@@ -27,13 +24,12 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bhupendrasharmaX&icon=5&color=4" alt="Visitor Count" />
+<p align="left">
+  <a href="https://linkedin.com/in/bhupendrasharma-x"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/i.bhupendrasharma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:bhupendra09x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
