@@ -29,9 +29,10 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 
 ---
 
+<style>.badge-hover:hover { transform: translateY(-4px); transition: 0.3s; filter: brightness(1.2); }</style>
 <p align="left">
-<a href="https://linkedin.com/in/bhupendrasharma-x"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/i.bhupendrasharma"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:bhupendra09x@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/bhupendrasharma-x" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/i.bhupendrasharma" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:bhupendra09x@gmail.com" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
