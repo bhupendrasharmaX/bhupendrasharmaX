@@ -63,18 +63,6 @@
 
 ---
 
-<!-- ==================== TOP LANGUAGES ==================== -->
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhupendrasharmaX&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-
-
----
-
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 ## Contribution Snake
