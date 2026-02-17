@@ -29,10 +29,15 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 
 ---
 
-<style>.badge-hover:hover { transform: translateY(-4px); transition: 0.3s; filter: brightness(1.2); }
 <p align="left">
-  <a href="https://linkedin.com/in/bhupendrasharma-x" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/i.bhupendrasharma" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:bhupendra09x@gmail.com" class="badge-hover" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p></style>
+  <a href="https://linkedin.com/in/bhupendrasharma-x" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/i.bhupendrasharma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:bhupendra09x@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
