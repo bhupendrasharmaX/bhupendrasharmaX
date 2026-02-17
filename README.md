@@ -26,7 +26,9 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
 ---
+
 <p align="left">
   <a href="https://linkedin.com/in/bhupendrasharma-x"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/i.bhupendrasharma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
