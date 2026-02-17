@@ -30,26 +30,32 @@ A passionate developer dedicated to building **efficient**, **scalable**, and **
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhupendrasharma-x" 
-     style="display:inline-block; transition: transform 0.3s ease;">
+
+  <a href="https://linkedin.com/in/bhupendrasharma-x"
+     style="display:inline-block; border-radius:12px; transition: all 0.3s ease;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         onmouseover="this.style.transform='scale(1.1) translateY(-4px)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'"/>
+         style="border-radius:12px;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 8px 25px rgba(0,119,181,0.5)'; this.style.backdropFilter='blur(6px)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.backdropFilter='none';"/>
   </a>
 
-  <a href="https://instagram.com/i.bhupendrasharma" 
-     style="display:inline-block; transition: transform 0.3s ease;">
+  <a href="https://instagram.com/i.bhupendrasharma"
+     style="display:inline-block; border-radius:12px; transition: all 0.3s ease;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         onmouseover="this.style.transform='scale(1.1) translateY(-4px)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'"/>
+         style="border-radius:12px;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 8px 25px rgba(228,64,95,0.5)'; this.style.backdropFilter='blur(6px)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.backdropFilter='none';"/>
   </a>
 
-  <a href="mailto:bhupendra09x@gmail.com" 
-     style="display:inline-block; transition: transform 0.3s ease;">
+  <a href="mailto:bhupendra09x@gmail.com"
+     style="display:inline-block; border-radius:12px; transition: all 0.3s ease;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         onmouseover="this.style.transform='scale(1.1) translateY(-4px)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'"/>
+         style="border-radius:12px;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 8px 25px rgba(209,72,54,0.5)'; this.style.backdropFilter='blur(6px)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.backdropFilter='none';"/>
   </a>
+
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
