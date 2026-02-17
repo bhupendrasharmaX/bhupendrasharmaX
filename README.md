@@ -68,7 +68,7 @@
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhupendrasharmaX&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=bhupendrasharmaX&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 
