@@ -105,13 +105,13 @@ class Bhupendra:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhupendrasharmaX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" width="48%" />
-&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=bhupendrasharmaX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" width="48%" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendrasharmaX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=FFFFFF" width="38%" />
 
-<br/><br/>
+<br><br> -->
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=bhupendrasharmaX&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="55%" />
+<img src="https://streak-stats.demolab.com?user=bhupendrasharmaX&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="55%" />
 
 </div>
 
