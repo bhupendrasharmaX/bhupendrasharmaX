@@ -145,7 +145,7 @@ class Bhupendra:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhupendrasharmaX&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" width="90%" />
+<img src="https://github-profile-trophy-rust.vercel.app/?username=bhupendrasharmaX&theme=onestar&no_frame=true&no_bg=true&margin_w=8&column=7" width="95%" />
 
 </div>
 
