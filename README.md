@@ -1,19 +1,20 @@
-<div align="center">
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  📁 FILE 1: README.md                                           -->
+<!--  📍 Place this file at the ROOT of your repo: bhupendrasharmaX/  -->
+<!--  ✂️ Copy everything BELOW this line until "END OF README.md"     -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0A0A2E,100:00F7FF&height=200&section=header&text=Bhupendra%20Sharma&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=58&descSize=18&descColor=8A2BE2&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Bhupendra+%F0%9F%91%8B;Building+cool+stuff+with+Python+%26+JS+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborations+%26+new+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile views + followers badges -->
 <img src="https://komarev.com/ghpvc/?username=bhupendrasharmaX&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/bhupendrasharmaX?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0D0D0D" alt="Followers"/>
@@ -21,10 +22,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -53,10 +50,6 @@ class Bhupendra:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CONNECT WITH ME                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -70,56 +63,59 @@ class Bhupendra:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode&perline=8&theme=dark" alt="Tech Stack" />
+</a>
+
+<br/><br/>
+
+<details>
+<summary><b>💻 Languages</b></summary>
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+</details>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools & Design
+</details>
+
+<details>
+<summary><b>🧰 Tools & Design</b></summary>
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
+</details>
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=bhupendrasharmaX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendrasharmaX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=FFFFFF" width="38%" />
-
-<br><br> -->
 
 <img src="https://streak-stats.demolab.com?user=bhupendrasharmaX&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="55%" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Graph
 
@@ -131,41 +127,29 @@ class Bhupendra:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENTS / TROPHIES                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhupendrasharmaX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhupendrasharmaX&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" width="90%" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      QUOTE CARD                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💭 Dev Quote of the Day
 
@@ -176,10 +160,6 @@ class Bhupendra:
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -194,3 +174,50 @@ class Bhupendra:
 **Made with ❤️ by [Bhupendra Sharma](https://github.com/bhupendrasharmaX)**
 
 </div>
+
+
+<!-- ═══════════════════════════════════ END OF README.md ══════════════════════════════════════ -->
+
+
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--  📁 FILE 2: .github/workflows/snake.yml                                                     -->
+<!--  📍 Create this file at: bhupendrasharmaX/.github/workflows/snake.yml                        -->
+<!--  ✂️ Copy the YAML block below (without the ```yaml and ``` markers) into that file            -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<!--
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=cyan&color_dots=#0D0D0D,#0A0A2E,#1A1A4E,#8A2BE2,#00F7FF
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+-->
