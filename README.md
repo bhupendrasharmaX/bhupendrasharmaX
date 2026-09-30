@@ -1,223 +1,60 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  📁 FILE 1: README.md                                           -->
-<!--  📍 Place this file at the ROOT of your repo: bhupendrasharmaX/  -->
-<!--  ✂️ Copy everything BELOW this line until "END OF README.md"     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<h1 align="center">Bhupendra Sharma</h1>
 
+<p align="center">
+  Developer · Python · Web Development · Design
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0A0A2E,100:00F7FF&height=200&section=header&text=Bhupendra%20Sharma&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=58&descSize=18&descColor=8A2BE2&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Bhupendra+%F0%9F%91%8B;Building+cool+stuff+with+Python+%26+JS+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborations+%26+new+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=bhupendrasharmaX&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/bhupendrasharmaX?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0D0D0D" alt="Followers"/>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/bhupendrasharma-x"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/i.bhupendrasharma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:bhupendra09x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## About
 
-## 🧑‍💻 About Me
+I'm a developer from India who enjoys building practical projects and learning new technologies.
 
-```python
-class Bhupendra:
-    name       = "Bhupendra Sharma"
-    location   = "India 🇮🇳"
-    focus      = ["Web Dev", "Python", "Problem Solving"]
-    hobbies    = ["Coding", "Designing", "Learning"]
-    currently  = "Leveling up every single day 🚀"
-    goal       = "Build things that matter 💡"
-
-    def greet(self):
-        return "Thanks for visiting my profile! Let's connect."
-```
-
-- 🔭 Currently working on **personal projects & open source contributions**
-- 🌱 Learning **JavaScript frameworks & Python automation**
-- 💬 Ask me about **Python, Web Dev, or Canva design**
-- ⚡ Fun fact: I debug code faster with lo-fi music 🎵
+- 🔭 Working on personal projects and open-source contributions
+- 🌱 Learning JavaScript frameworks and Python automation
+- 💬 Ask me about Python, web development, or Canva design
 - 📫 Reach me at **bhupendra09x@gmail.com**
 
-<br clear="right"/>
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode&perline=8" alt="Tech stack"/>
+</p>
+
+| Category | Tools |
+| --- | --- |
+| Languages | Python, C, JavaScript |
+| Frontend | HTML5, CSS3 |
+| Tools | Git, GitHub, VS Code, Canva |
 
 ---
 
-## 🌐 Connect With Me
+## GitHub Stats
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupendrasharma-x)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i.bhupendrasharma)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupendra09x@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhupendrasharmaX)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhupendrasharmaX&theme=default&hide_border=true" alt="GitHub streak stats" width="70%"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode&perline=8&theme=dark" alt="Tech Stack" />
-</a>
-
-<br/><br/>
-
-<details>
-<summary><b>💻 Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🧰 Tools & Design</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-</details>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhupendrasharmaX&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="55%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Bhupendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupendrasharmaX&bg_color=0D0D0D&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/bhupendrasharmaX)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake-dark.svg" width="100%" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/bhupendrasharmaX/bhupendrasharmaX/output/github-snake.svg" width="100%" />
 </picture>
 
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-rust.vercel.app/?username=bhupendrasharmaX&theme=onestar&no_frame=true&no_bg=true&margin_w=8&column=7" width="95%" />
-
-</div>
-
----
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:0D0D0D&height=140&section=footer&text=Thanks+for+visiting!+⭐&fontColor=FFFFFF&fontSize=22&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-**Made with ❤️ by [Bhupendra Sharma](https://github.com/bhupendrasharmaX)**
-
-</div>
-
-
-<!-- ═══════════════════════════════════ END OF README.md ══════════════════════════════════════ -->
-
-
-<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--  📁 FILE 2: .github/workflows/snake.yml                                                     -->
-<!--  📍 Create this file at: bhupendrasharmaX/.github/workflows/snake.yml                        -->
-<!--  ✂️ Copy the YAML block below (without the ```yaml and ``` markers) into that file            -->
-<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=cyan&color_dots=#0D0D0D,#0A0A2E,#1A1A4E,#8A2BE2,#00F7FF
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
--->
+<p align="center">
+  Thanks for visiting! Feel free to connect or collaborate.
+</p>
